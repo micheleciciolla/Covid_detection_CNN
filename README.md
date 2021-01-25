@@ -1,4 +1,4 @@
-# COVID - NO_COVID classifier of X-Ray Images
+# COVID - NOCOVID classifier of X-Ray Images
 
 ![Swagger Validator](https://img.shields.io/swagger/valid/3.0?label=Ubuntu%2016.04%20LTS&logo=Ubuntu&specUrl=https%3A%2F%2Fraw.githubusercontent.com%2FOAI%2FOpenAPI-Specification%2Fmaster%2Fexamples%2Fv2.0%2Fjson%2Fpetstore-expanded.json)
 
