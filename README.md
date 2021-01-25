@@ -1,7 +1,8 @@
-# Covid_detection_CNN
+# COVID - NO_COVID classifier of X-Ray Images
 
-AIRO project: Vision & Perception course
+![Swagger Validator](https://img.shields.io/swagger/valid/3.0?label=Ubuntu%2016.04%20LTS&logo=Ubuntu&specUrl=https%3A%2F%2Fraw.githubusercontent.com%2FOAI%2FOpenAPI-Specification%2Fmaster%2Fexamples%2Fv2.0%2Fjson%2Fpetstore-expanded.json)
 
+![Swagger Validator](https://badgen.net/github/status/micromatch/micromatch/4.0.1)
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
 ## Approach 
@@ -18,6 +19,7 @@ The aim is to identify Covid from x-ray photos of lungs, training the network on
 * Nicolò Mantovani <a href="https://github.com/Nicodman"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="30"></a>
 
 * Michele Ciciolla <a href="https://github.com/micheleciciolla"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="30"></a>
+<a href="https://www.linkedin.com/in/micheleciciolla/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
 
 
 
