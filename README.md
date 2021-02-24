@@ -14,6 +14,10 @@ The aim is to identify Covid from x-ray photos of lungs, training the network on
 
 ![](cnn.gif)
 
+## Project Status
+Completed <a href="https://github.com/micheleciciolla/vehicles-platooning"><img src="https://www.flaticon.com/svg/static/icons/svg/214/214353.svg" width="30"></a>
+
+
 ## Team
 * Flavio Lorenzi <a href="https://github.com/FlavioLorenzi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="30"></a>
 <a href="https://www.linkedin.com/in/flavio-lorenzi-875982171/"><img src="https://www.tecnomagazine.it/tech/wp-content/uploads/2013/05/linkedin-aggiungere-immagini.png" width="30"></a>
